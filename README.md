@@ -1,6 +1,7 @@
 # ACE Indexer
-### This repository does not contain any content, as it is used to organize and referentiate to some useful ACE-related projects. ### 
-### If any of the following projects can not be accessed, please contact me to solve the issue. Also, the list is not complete and may be updated on request or related content donation.###
+## This repository does not have any content, as it is used to organize and referentiate to some useful ACE-related projects. ## 
+### The list is not complete and may be updated on request or when other related content is found. ###
+### If any of the following projects can not be accessed, the repository either was moved or its visibility was changed. This issue will be solved upon notice. ###
 #### Algorithm Design [assignment and subjects](https://github.com/bogdandr14/Algorithm-Design) ####
 #### Artificial Intelligence [laboratory amd assignment](https://github.com/bogdandr14/Artificial-Intelligence) ####
 #### Competing and Distributed Systems [laboratory and assignment](https://github.com/bogdandr14/Competing-and-Distributed-Systems) ####
